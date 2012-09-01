@@ -18,4 +18,5 @@ directly with Database-Based Language Control. Further Informations will come so
 Short Description for Repo
 =============================
 
-The Delymbria Forum will work together with the game in final and it needs at least the Core to work
+The Delymbria Forum will work together with the game in final and it needs at least the Core to work. The Forum will
+be managed through the Delymbria ASC

@@ -1,5 +1,5 @@
-delymbria-forum
-===============
+Delymbria Forum Software
+==========================
 
 Version: 0.1a1
 
